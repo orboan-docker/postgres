@@ -1,7 +1,15 @@
 # postgres
 
+To install:
+
 ```
-docker-compose up -d
+./install.sh
 ```
 
+Other commands:
 
+```
+pg start
+pg stop
+pg status
+```
